@@ -1,0 +1,7 @@
+C:\Users\WeCanCodeIT\source\repos\Fortune Teller Project\Fortune Teller Project\bin\Debug\Fortune Teller Project.exe.config
+C:\Users\WeCanCodeIT\source\repos\Fortune Teller Project\Fortune Teller Project\bin\Debug\Fortune Teller Project.exe
+C:\Users\WeCanCodeIT\source\repos\Fortune Teller Project\Fortune Teller Project\bin\Debug\Fortune Teller Project.pdb
+C:\Users\WeCanCodeIT\source\repos\Fortune Teller Project\Fortune Teller Project\obj\Debug\Fortune Teller Project.csprojAssemblyReference.cache
+C:\Users\WeCanCodeIT\source\repos\Fortune Teller Project\Fortune Teller Project\obj\Debug\Fortune Teller Project.csproj.CoreCompileInputs.cache
+C:\Users\WeCanCodeIT\source\repos\Fortune Teller Project\Fortune Teller Project\obj\Debug\Fortune Teller Project.exe
+C:\Users\WeCanCodeIT\source\repos\Fortune Teller Project\Fortune Teller Project\obj\Debug\Fortune Teller Project.pdb
